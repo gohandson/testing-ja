@@ -7,7 +7,12 @@
 ## 動かし方
 
 ```sh
-$ export GOBIN=`pwd`/_bin # 1度だけ
-$ go install github.com/tenntenn/gohandson/greeting/cmd/greeting
-$ _bin/step06
+$ go build -v -o step06
+$ ./step06
+```
+
+## テストの実行
+
+```sh
+$ go test -v ./...
 ```

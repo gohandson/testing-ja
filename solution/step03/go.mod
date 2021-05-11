@@ -1,6 +1,5 @@
 // 以下の手順で作成
-//   $ export GO111MODULE=on
-//   $ go mod init github.com/tenntenn/gohandson/greeting
-module github.com/tenntenn/gohandson/greeting
+//   $ go mod init github.com/gohandson/testing-ja
+module github.com/gohandson/testing-ja
 
-go 1.12
+go 1.16

@@ -9,6 +9,6 @@
 ## 動かし方
 
 ```sh
-$ go build -v -o step01
+$ go build -v -o step01 main.go
 $ ./step01
 ```

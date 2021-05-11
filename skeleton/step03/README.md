@@ -9,7 +9,6 @@
 ## 動かし方
 
 ```sh
-$ export GOBIN=`pwd`/_bin
-$ go install github.com/tenntenn/gohandson/greeting/cmd/greeting
-$ _bin/step03
+$ go build -v -o step03
+$ ./step03
 ```

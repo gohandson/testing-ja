@@ -8,6 +8,6 @@
 ## 動かし方
 
 ```sh
-$ go build -v -o step02
+$ go build -v -o step02 main.go
 $ ./step02
 ```
