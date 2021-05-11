@@ -34,8 +34,8 @@ $ go env GOPATH
 $ cd ↑のディレクトリに移動
 $ mkdir -p src/github.com/gohandson/
 $ cd src/github.com/gohandson
-$ git clone https://github.com/gohandson/test-ja
-$ cd test-ja
+$ git clone https://github.com/gohandson/testing-ja
+$ cd testing-ja
 ```
 
 ## ライセンス
